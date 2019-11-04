@@ -3,11 +3,6 @@ import java.net.*;
 import java.util.Arrays;
 import java.util.concurrent.CountDownLatch;
 
-/**
- * Mia Shpan 314977349
- * Yuval Kessel 205683584
- */
-
 public class ProxyServerThread extends Thread {
 
     private Socket clientSocket;
