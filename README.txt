@@ -1,6 +1,3 @@
-Mia Shpan
-Yuval Kessel
-
 Sockspy.java
 The class contains the main function - it creates a MultiThreadedProxyServer object and runs it.
 
