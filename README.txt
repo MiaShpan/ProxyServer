@@ -1,3 +1,5 @@
+*This assignment was done under the computer graphics course, some of the code was written by the instructor as part of the assignment.
+
 Sockspy.java
 The class contains the main function - it creates a MultiThreadedProxyServer object and runs it.
 
